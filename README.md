@@ -1,2 +1,2 @@
 # OverTheWire
-Solving OverTheWire challenges providing the commands i used and the passwords for each level I passed
+Solving OverTheWire challenges providing the commands I used and the passwords for each level I passed.
