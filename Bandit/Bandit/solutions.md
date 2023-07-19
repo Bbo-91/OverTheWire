@@ -68,7 +68,7 @@ tr>
 <td>level 8</td>
 <td>
 
-`grep -rw ./ -e millionth`
+`grep -rw ./ -e millionth` or `ack 'millionth`
 
 </td>
 </tr>
