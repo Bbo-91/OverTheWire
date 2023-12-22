@@ -6,6 +6,7 @@
 `ssh bandit0@bandit.labs.overthewire.org -p 2220`
 </td>
 </tr>
+<tr>
 <td>level 1</td>
 <td>
 
@@ -13,6 +14,7 @@
 `cat readme`
 </td>
 </tr>
+<tr>
 <td>level 2</td>
 <td>
 
@@ -37,7 +39,7 @@
 `cat .hidden`
 </td>
 </tr>
-tr>
+<tr>
 <td>level 5</td>
 <td>
 
